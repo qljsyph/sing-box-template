@@ -482,7 +482,7 @@
         "default_mark": 666,
         "default_domain_resolver": {
             "server": "dns_proxy",
-            "rewrite_tll": 60,
+            "rewrite_ttl": 60,
             "client_subnet": "111.163.134.12"
         },
         "rules": [
